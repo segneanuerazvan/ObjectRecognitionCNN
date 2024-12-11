@@ -20,3 +20,6 @@ This project implements a Convolutional Neural Network (CNN) to perform object r
 1. Clone the repository:
    ```bash
    git clone https://github.com/RazvanSegneanu/ObjectRecognitionCNN.git
+## Dataset
+- This project uses the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) for training and testing.
+- Download the dataset and place it in the `data/` folder before running the notebook.
